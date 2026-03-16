@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
 export default defineConfig({
+  base: '/Website_Hommy/',
   build: {
     rollupOptions: {
       input: {
