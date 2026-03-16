@@ -2,7 +2,7 @@
     <header class="fixed w-full top-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100 transition-all duration-300">
       <div class="container py-4 flex items-center justify-between">
         <!-- Logo -->
-        <a href="/" class="flex items-center space-x-2">
+        <a href="./" class="flex items-center space-x-2">
           <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
                class="h-14 lg:h-20 2xl:h-28 w-auto" 
                viewBox="0 0 1200.000000 1381.000000"
@@ -71,13 +71,13 @@
 
         <!-- Desktop Navigation -->
         <nav class="hidden lg:flex items-center space-x-8 2xl:space-x-12">
-          <a href="/como-funciona.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Cómo funciona</a>
-          <a href="/clientes.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Clientes</a>
-          <a href="/profesionales.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Profesionales</a>
-          <a href="/seguridad.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Seguridad</a>
-          <a href="/ayuda.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Ayuda</a>
-          <a href="/nosotros.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Nosotros</a>
-          <a href="/precios.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Precios</a>
+          <a href="como-funciona.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Cómo funciona</a>
+          <a href="clientes.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Clientes</a>
+          <a href="profesionales.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Profesionales</a>
+          <a href="seguridad.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Seguridad</a>
+          <a href="ayuda.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Ayuda</a>
+          <a href="nosotros.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Nosotros</a>
+          <a href="precios.html" class="text-sm 2xl:text-xl font-medium text-secondary hover:text-primary transition-colors">Precios</a>
         </nav>
 
         <!-- Auth Buttons & Mobile Toggle -->
@@ -98,13 +98,13 @@
       <!-- Mobile Menu -->
       <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-gray-100 absolute w-full left-0 shadow-xl overflow-hidden transition-all duration-300 max-h-0">
         <div class="container py-6 flex flex-col space-y-4">
-          <a href="/como-funciona.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Cómo funciona</a>
-          <a href="/clientes.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Clientes</a>
-          <a href="/profesionales.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Profesionales</a>
-          <a href="/seguridad.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Seguridad</a>
-          <a href="/ayuda.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Ayuda</a>
-          <a href="/nosotros.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Nosotros</a>
-          <a href="/precios.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Precios</a>
+          <a href="como-funciona.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Cómo funciona</a>
+          <a href="clientes.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Clientes</a>
+          <a href="profesionales.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Profesionales</a>
+          <a href="seguridad.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Seguridad</a>
+          <a href="ayuda.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Ayuda</a>
+          <a href="nosotros.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Nosotros</a>
+          <a href="precios.html" class="text-lg font-medium text-secondary hover:text-primary transition-colors">Precios</a>
           <div class="pt-4 border-t border-gray-100 flex flex-col space-y-4">
             <a href="https://www.hommy.app/login" class="btn btn-primary w-full">Login</a>
           </div>

@@ -1,4 +1,4 @@
-import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e&&(e.innerHTML=`
+import"./main-Dbfd22MI.js";function r(){const e=document.getElementById("app");e&&(e.innerHTML=`
     <!-- Hero Section -->
     <section class="relative pt-24 pb-20 lg:pt-48 lg:pb-32 2xl:pt-64 2xl:pb-48 overflow-hidden">
       <div class="container relative z-10">
@@ -12,11 +12,11 @@ import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e
 
           <!-- Imagen para Móvil/Tablet (< 1024px) -->
           <div class="lg:hidden mb-12">
-            <div class="relative mx-auto w-full max-w-[320px] md:max-w-[500px] aspect-[4/5] bg-primary/5 rounded-[40px] flex items-center justify-center p-6 md:p-10 transition-all duration-300">
+          <div class="relative mx-auto w-full max-w-[320px] md:max-w-[500px] aspect-[4/5] bg-primary/5 rounded-[40px] flex items-center justify-center p-6 md:p-10 transition-all duration-300">
                <div class="w-full h-full bg-gray-100 rounded-3xl overflow-hidden shadow-xl rotate-3">
                   <picture>
-                    <source media="(min-width: 1430px)" srcset="/assets/images/01_header.png">
-                    <img src="/assets/images/01_header_movil_v2.png" alt="Home maintenance" class="w-full h-full object-cover">
+                    <source media="(min-width: 1430px)" srcset="assets/images/01_header.png">
+                    <img src="assets/images/01_header_movil_v2.png" alt="Home maintenance" class="w-full h-full object-cover">
                   </picture>
                </div>
             </div>
@@ -24,7 +24,7 @@ import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e
 
           <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 items-center md:justify-center lg:justify-start sm:items-start">
             <a href="https://www.hommy.app/login" class="btn btn-primary w-full sm:w-auto md:text-2xl md:px-12 md:py-5 text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 text-center shadow-lg hover:shadow-primary/30 transition-all">Publicar Proyecto</a>
-            <a href="/como-funciona.html" class="btn btn-outline w-full sm:w-auto md:text-2xl md:px-12 md:py-5 text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 text-center hover:bg-primary/5 transition-all">Cómo funciona</a>
+            <a href="como-funciona.html" class="btn btn-outline w-full sm:w-auto md:text-2xl md:px-12 md:py-5 text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 text-center hover:bg-primary/5 transition-all">Cómo funciona</a>
           </div>
         </div>
       </div>
@@ -33,8 +33,8 @@ import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e
         <div class="w-full h-full bg-primary/5 rounded-l-[100px] 2xl:rounded-l-[200px] flex items-center justify-center">
            <div class="w-4/5 h-4/5 bg-gray-200 rounded-3xl 2xl:rounded-[60px] overflow-hidden shadow-2xl rotate-3">
               <picture>
-                <source media="(min-width: 1430px)" srcset="/assets/images/01_header.png">
-                <img src="/assets/images/01_header_movil_v2.png" alt="Home maintenance" class="w-full h-full object-cover">
+                <source media="(min-width: 1430px)" srcset="assets/images/01_header.png">
+                <img src="assets/images/01_header_movil_v2.png" alt="Home maintenance" class="w-full h-full object-cover">
               </picture>
            </div>
         </div>
@@ -107,7 +107,7 @@ import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e
           <div class="lg:w-1/2">
             <div class="relative">
               <div class="w-full h-[500px] 2xl:h-[700px] bg-gray-200 rounded-3xl 2xl:rounded-[60px] overflow-hidden">
-                <img src="/assets/images/02_mainMid.png" alt="Happy family" class="w-full h-full object-cover">
+                <img src="assets/images/02_mainMid.png" alt="Happy family" class="w-full h-full object-cover">
               </div>
               <div class="absolute -bottom-6 -right-6 bg-primary p-8 2xl:p-12 rounded-2xl 2xl:rounded-[40px] shadow-xl text-white max-w-xs 2xl:max-w-md">
                 <p class="text-lg 2xl:text-2xl font-medium italic">"Hommy cambió la forma en que cuido mi hogar. Ahora todo es más simple."</p>
@@ -137,8 +137,8 @@ import"./main-BiKZ0cGa.js";function r(){const e=document.getElementById("app");e
             <p class="text-xl 2xl:text-3xl mb-12 opacity-90">Únete a miles de personas que ya confían en los expertos de Hommy.</p>
             <div class="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-6">
               <a href="https://www.hommy.app/login" class="bg-white text-primary btn text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 hover:bg-gray-100">Publicar Proyecto Ahora</a>
-              <a href="/clientes.html" class="bg-transparent border-2 border-white btn text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 hover:bg-white/10">Soy Cliente</a>
-              <a href="/profesionales.html" class="bg-transparent border-2 border-white btn text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 hover:bg-white/10">Soy Profesional</a>
+              <a href="clientes.html" class="bg-transparent border-2 border-white btn text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 hover:bg-white/10">Soy Cliente</a>
+              <a href="profesionales.html" class="bg-transparent border-2 border-white btn text-lg 2xl:text-2xl 2xl:px-12 2xl:py-6 hover:bg-white/10">Soy Profesional</a>
             </div>
           </div>
           <!-- Decorative Background -->
