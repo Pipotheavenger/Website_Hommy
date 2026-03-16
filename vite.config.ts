@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
 export default defineConfig({
-  base: '/Website_Hommy/',
+  base: '/web.hommy.app/',
   build: {
     outDir: 'docs',
     rollupOptions: {
